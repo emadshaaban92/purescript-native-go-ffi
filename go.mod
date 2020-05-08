@@ -1,1 +1,1 @@
-module github.com/purescript-native/go-ffi
+module github.com/emadshaaban92/purescript-native-go-ffi
